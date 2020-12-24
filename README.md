@@ -8,4 +8,4 @@
 ![after](after.PNG)
 
 ### Animations:
-![animations](animations.gif)
+![animations](animation.gif)
